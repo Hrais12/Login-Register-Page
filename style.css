@@ -1,10 +1,17 @@
+body{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1358/0*GtEJelcX3meedMsB);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 form{
     border: solid black;
+    border-radius: 30px;
     height: 100px;
     text-align: center;
     padding-top: 20px;
     margin-left: 40% ;
     margin-right: 40%;
+    background-color: aliceblue;
 }
 
 #Email{
@@ -24,10 +31,12 @@ h1{
 
 .RegisterContainer{
     border: solid black;
-    border: solid black;
+    border-radius: 30px;
     height: 250px;
     text-align: center;
     padding-top: 20px;
     margin-left: 40% ;
     margin-right: 40%;
+    background-color: aliceblue ;
+    ;
 }
